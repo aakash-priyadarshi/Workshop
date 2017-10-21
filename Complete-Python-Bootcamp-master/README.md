@@ -41,7 +41,7 @@ You can download the jupyter notebook or any python editor and also, You can dow
 - Built in function Assisment test
 - Decorators and then its homework
 - Iteration vs Generators
-- **Finale Capstone Project**
+- **Final Capstone Project**
 - Collection Modules
 - Datetime
 - Python Debugger
@@ -54,6 +54,6 @@ You can download the jupyter notebook or any python editor and also, You can dow
 - Advance Dictionary
 - Advance List
 - **Advance Python Object Assisment Test**
-- **GUI** (there's a folder, follow the order **up to down** in the folder)
+- **GUI** (there's a folder, follow the order from **up to down** as in the folder)
 
 Enjoy the course and thank you for enrolling!
