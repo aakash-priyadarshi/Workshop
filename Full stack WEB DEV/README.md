@@ -1,5 +1,4 @@
 # Full stack web development
-Welcome to the Repository for the Complete Python Bootcamp!
 This is the Repository for the workshop course - "Full stack web development".
 ## You can enroll in this and all other workshop at price of Rs 30 only.
 In this repo you will find all the accompanying files for the course. For quicker view rendering and simpler downloading procedures.
