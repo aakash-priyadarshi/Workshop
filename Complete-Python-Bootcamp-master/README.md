@@ -4,7 +4,7 @@
 
 This is the Repository for the workshop course - "Complete Python Bootcamp".
 
-# You can enroll in the workshop at price of Rs 30 only.
+# You can enroll in this and all other workshop at price of Rs 30 only.
 
 
 In this repo you will find all the accompanying Jupyter (p.k.a. iPython) Notebooks for the course. For quicker view rendering and simpler downloading procedures.
