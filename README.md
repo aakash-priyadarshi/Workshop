@@ -15,6 +15,7 @@
 - Deep Learning
 - Artificial Intelligence
 - Computer Vision and MATLAB
+- Adobe After Effect and Photoshop
 
 ### Support or Contact
 
