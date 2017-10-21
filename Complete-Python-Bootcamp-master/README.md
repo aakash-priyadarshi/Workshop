@@ -12,4 +12,48 @@ In this repo you will find all the accompanying Jupyter (p.k.a. iPython) Noteboo
 
 You can download the jupyter notebook or any python editor and also, You can download the .ipynb files onto your own computer for convenience.
 
+### Please follow the following sequence.
+
+-Numbers
+-String
+-Print formatting
+-List
+-Dictionaruies
+-Tuples
+-Set and Booleans
+-**Object and Data Structures Assisment**
+-Comparision Operators
+-Chained comparision operators
+-if,else,loops,range
+-List Comparision
+-**Statement Assisment**
+-Methods
+-Functions
+-Lambda expression
+-Nested Statments and Scoop
+-**Function and Method Homework Assisment**
+-**Milestone Project - 1**
+-Object oriented programming (OOP)
+-Errors and exceptions
+-**Milestone Project - 2**
+-Modules and Package
+-Build in Functions(map,reduce,filter,zip,enumumerate,all() and any(),complex)
+-Built in function Assisment test
+-Decorators and then its homework
+-Iteration vs Generators
+-**Finale Capstone Project**
+-Collection Modules
+-Datetime
+-Python Debugger
+-Timing your code
+-Regular expression
+-String IO
+-Advance Number
+-Advance String
+-Advance Set
+-Advance Dictionary
+-Advance List
+-**Advance Python Object Assisment Test**
+-**GUI** (there's a folder, follow the order **up to down** in the folder)
+
 Enjoy the course and thank you for enrolling!
