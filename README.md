@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Workshop page
 
 You can use the [editor on GitHub](https://github.com/aakashm301/Workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
