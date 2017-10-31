@@ -43,6 +43,7 @@ You can download the jupyter notebook or any python editor and also, You can dow
 - Iteration vs Generators
 - **Final Capstone Project**
 - Collection Modules
+- [Math Modules](https://docs.python.org/3/library/math.html)
 - Datetime
 - Python Debugger
 - Timing your code
