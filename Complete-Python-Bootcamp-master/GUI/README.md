@@ -8,3 +8,5 @@ If you want to build web apps, you'll probably want to avoid Python as the GUI a
 **For the rest of this section we will explore the awesome world of Widgets in the Jupyter Notebook setting! This type of GUI is best suited for creating dashboards for data/business analysis situations.**
 
 Let's get started!
+
+**Please follow the sequence from 1 to 6.**
