@@ -17,4 +17,4 @@ Hi everyone!
 Just a quick note about coloring and styling your ipywidgets, ipywidgets has actually switched over to a Bootstrap style, for more info, check out:
 [Here](https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Styling.html#Predefined-styles)
 
-Any questions? Feel free to post to the QA forums, thanks!
+Any questions? Feel free to post to the issue forums, thanks!
