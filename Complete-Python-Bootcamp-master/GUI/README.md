@@ -10,3 +10,11 @@ If you want to build web apps, you'll probably want to avoid Python as the GUI a
 Let's get started!
 
 **Please follow the sequence from 1 to 6.**
+
+## Quick note about ipywidgets
+
+Hi everyone!
+Just a quick note about coloring and styling your ipywidgets, ipywidgets has actually switched over to a Bootstrap style, for more info, check out:
+[Here](https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Styling.html#Predefined-styles)
+
+Any questions? Feel free to post to the QA forums, thanks!
