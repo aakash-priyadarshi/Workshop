@@ -5,6 +5,7 @@
 - [Python](https://github.com/aakashm301/Workshop/tree/master/Complete-Python-Bootcamp-master)
 - [Full stack web development](https://github.com/aakashm301/Workshop/tree/master/Full%20stack%20WEB%20DEV)
 - [Raspberry Pi](#)
+- [Machine Learning](https://github.com/aakashm301/Workshop/tree/master/Refactored_Py_DS_ML_Bootcamp-master)
 
 ### Thank you enrolling. You can also enroll in other workshops by paying Rs 30 only.
 
