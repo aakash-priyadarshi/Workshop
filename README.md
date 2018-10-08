@@ -10,11 +10,6 @@
 ### Thank you enrolling. You can also enroll in other workshops by paying Rs 30 only.
 
 ## Other/Upcoming Workshops
-- Aurdino
-- Raspberry Pi
-- Machine Learning
-- Deep Learning
-- Artificial Intelligence
 - Computer Vision and MATLAB
 - Adobe After Effect and Photoshop
 
