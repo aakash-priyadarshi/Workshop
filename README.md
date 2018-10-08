@@ -7,7 +7,7 @@
 - [IoT and Robotics](#)
 - [Machine Learning and Neural network](https://github.com/aakashm301/Workshop/tree/master/Refactored_Py_DS_ML_Bootcamp-master)
 
-### Thank you enrolling. You can also enroll in other workshops by paying Rs 30 only.
+### Thank you enrolling. You can also enroll in other workshops by paying Rs 999 only.
 
 ## Other/Upcoming Workshops
 - Computer Vision and MATLAB
